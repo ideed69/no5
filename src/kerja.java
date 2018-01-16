@@ -22,7 +22,7 @@ public class kerja {
      
      System.out.println(" A: KERANI                B: JURUTEKNIK");
      System.out.println(" C: PENTADBIR             D: PENGURUS");
-     System.out.println("                E:Lain-Lain           ");
+  
    
        
      System.out.println("Pilih kod pekerjaan anda : ");
@@ -40,9 +40,7 @@ public class kerja {
      else if(kodujian=='D'){
          paparan="Capaian keseluruhan";
      }
-     else if(kodujian=='E'){
-        paparan="Capaian tidak diterima";   
-    }
+ 
     
      
      System.out.println("Kod kerja: "+kodujian);
