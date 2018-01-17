@@ -38,7 +38,7 @@ public class kerja {
          paparan="Capaian sistem dan data";
      }
      else if(kodujian=='D'){
-         paparan="Capaian keseluruhan";
+         paparan="Capaian keseluruha";
      }
  
     
